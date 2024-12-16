@@ -1,22 +1,11 @@
-<p align="center">
-<img src="https://github.com/Volmarg/personal-management-system/blob/main/public/logo-small.png?raw=true" width="100px"/>
-</p>
-
 <h1 align="center"> Personal Management System</h1>
 <p align="center"><i>Your central point for managing personal data <br> (if current modules allow to do that).</i></p>
 
-<div align="center">
-<i>Check out my other tools</i><br>
-<a href="http://voltigo.pl/"><img src="https://img.shields.io/badge/Voltigo-0078D7?style=for-the-badge&logoColor=white"></a>
-</div>
 
 <h3>Documentation / Demo</h3>
 <hr>
 
-<ul>
-<li><b>Documentation</b> - available <a href="https://volmarg.github.io"><b>here</b></a></li>
-<li><b>Demo</b> - click <a href="http://personal-management-system.pl/"><b>here </b></a>
-<ul>
+
 <li><b>Login:</b> admin</li>
 <li><b>Password/LockPassword:</b> admin</li>
 </ul>
@@ -88,39 +77,6 @@
     <li><b>For installation from within docker usage call:</b> <pre>composer pms-installer-docker</pre></li>
 </ul>
 
-<h2>Future development plans</h2>
-
-<h3>Improvements</h3>
-<p>
-	<i>Overally I will just add some bug fixes/improvements/modules from time to time - anything that I will just need.</i>
-</p>	
-<hr>
-
-<h2>Support</h2>
-
-<p align="justify">
-    I cannot guarantee support. I've got a job, personal things etc, I'm just sharing my code/my application as MIT. However feel totally free to ask about something, write issues etc. As mentioned I'm using and I will use this application from now on daily so there might be some changes even good for me.
-</p>
-
-<p align="justify">
-    As I'm working on it there will be some fixes, and new modules in future when I reach the point when I got all I need. So after reaching my goal I could handle some support requests if anyone will be interested.
-</p>
-
-<h3>Browsers Support</h3>
-<ul>
-	<li>Chrome</li>
-</ul>
-
-<p>
-	I mean for real. Just <b>Chrome</b>. I know about bug with copying password in Firefox for example. But I just do everything in Chrome so I'm not really planning to check that on other browsers. And before You ask why I only support chrome - I don't do it because of "chrome is the best" or anything like that, I just use that browser for 98% of time and that's just it.
-</p>
-
-<hr>
-
-<h2>Tech</h2>
-<p style="text-align:justify;">
-    Personal Management System is a web application which can be ran either in Windows and Linux enviroment. Everything is by default tested on Ubuntu 20.x.
-</p>
 
 <h3>Used languages/frameworks/solutions</h3>
 
@@ -151,18 +107,3 @@
 <li>... bootstrap, TinyMce, DataTables and many others</li>
 <li>... I don't even know some of them which come prebuild in Symfonator</li>
 </ul>
-
-<h2>Special thanks to</h2>
-<ul>
-	<li><a href="https://github.com/mogilvie">Mark Ogilvie</a> - for fixing EncryptBundle bugs for Symfony 4</li>
-	<li><a href="https://github.com/furcan">Furcan</a> - for adding my idea of contenteditable support for Icon Picker</li>
-	<li><a href="https://github.com/petervanderwalt">Petervanderwalt</a> - for adding fontawesome <b>js</b> version support for <a href="https://github.com/furcan/IconPicker">IconPicker</a></li>	
-	<li><a href="https://github.com/SimonHaas">SimonHaas</a> - for providing <b>docker</b> configuration</li>	
-	<li><a href="https://github.com/MohamedElashri">MohamedElashri</a> - for testing <b>docker</b> configuration</li>	
-	<li><a href="https://github.com/rwaight">Rob Waight</a> - for providing changes and documentation for running <b>docker</b> on windows</li>	
-</ul>
-
-<h3>Contact</h3>
-<hr>
-
-- <p align="left"><b>Mail</b> - <a href="mailto:personal.management.system.pms@gmail.com"><i>personal.management.system.pms@gmail.com</i></a></p>
